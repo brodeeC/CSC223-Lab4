@@ -105,7 +105,7 @@ public class SegmentNodeDatabase {
 				list.add(new SegmentNode(point1, point2));
 			}
 		}
-		return list;
+		return list;//test
 	}
 
 	/**
